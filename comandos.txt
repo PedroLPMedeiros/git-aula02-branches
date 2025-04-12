@@ -1,0 +1,30 @@
+Pedro Lucas Pereira de Medeiros
+
+Comandos da atividade:
+
+-mkdir git-branches-aula2
+-cd git-branches-aula2
+-git clone https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead.git
+-ls
+-cd curso-branchs-ifrn-ead/
+-git branch
+-git add Texto.txt
+-cat Texto.txt
+-git commit -m "arquivo txt na branch main"
+-git checkout -b feature-1
+-git branch
+-ls
+-cat Texto.txt
+-git add Texto.txt
+-cat texto.txt
+-git add Texto.txt
+-git commit -m "alteração do arquivo para a branch feature-1"
+-git checkout main
+- ls
+-cat Texto.txt
+-git add texto.txt
+-git commit -m "alteração para a branch main do arquivo de texto"
+-git merge feature-1
+-git add Texto.txt
+-git commit -m "arquivo corrigido"
+-git checkout -b add-comandos
