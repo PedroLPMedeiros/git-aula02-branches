@@ -5,6 +5,7 @@ Alteração na branch 3.
 Nova alteração branch 2.
 Adiciona nova linha para teste do MR.
 
+Altera para verificar o comando diff.
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
